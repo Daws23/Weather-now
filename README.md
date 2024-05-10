@@ -47,5 +47,5 @@ Alternatively, you can run the application using Python Flask. Ensure you have P
 ```bash
 python app.py
 ```
-This will start the Flask server, and you can access the application on `http://localhost:5000`. Happy learning ( ◡̀_◡́)ᕤ !
+This will start the Flask server, and you can access the application on `http://localhost:5000`. Happy learning ( ◡̀_◡́)ᕤ!
 
